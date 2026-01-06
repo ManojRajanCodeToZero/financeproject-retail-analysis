@@ -32,3 +32,5 @@ git checkout -b feature2 feature1 ( To create feature2 branch and get the code b
 # Delete Branch
 
 git branch -d <branch_name>
+
+# Feature

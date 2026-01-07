@@ -34,3 +34,5 @@ git checkout -b feature2 feature1 ( To create feature2 branch and get the code b
 git branch -d <branch_name>
 
 # Feature
+
+Remove this line.

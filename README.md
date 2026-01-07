@@ -53,4 +53,13 @@ git reset <hash_value>
 
 git reset head~1
 
+
+# Stash
+
+- To place the content in the parking area
+git stash
+
+- To retrive the content from the parking area
+git stash pop
+
 Remove this line.

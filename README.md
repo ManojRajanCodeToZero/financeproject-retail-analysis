@@ -28,3 +28,9 @@ git checkout feature1 ( To switch to feature1 branch )
 git checkout -b feature2 ( To create and switch to feature2 branch )
 
 git checkout -b feature2 feature1 ( To create feature2 branch and get the code base from feature1)
+
+# Delete Branch
+
+git branch -d <branch_name>
+
+# Feature

@@ -62,4 +62,7 @@ git stash
 - To retrive the content from the parking area
 git stash pop
 
+- To clear the stash area
+git stash clear
+
 Remove this line.

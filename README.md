@@ -35,4 +35,22 @@ git branch -d <branch_name>
 
 # Feature
 
+# Remove the unstaged change
+
+git restore <file_name>
+
+# Remove the staged change
+
+git restore --staged <file_name>
+
+# Remove the committed change
+
+git log (To show all the commits and shows the most recent change at the top)
+
+git reset <hash_value>
+
+## to go just one step down, the one step before
+
+git reset head~1
+
 Remove this line.

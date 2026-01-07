@@ -65,4 +65,12 @@ git stash pop
 - To clear the stash area
 git stash clear
 
-Remove this line.
+
+git stash list
+git stash pop
+git stash pop <id>
+git stash clear
+git stash save "Message"
+
+
+
